@@ -1,0 +1,4 @@
+opkg update
+opkg install coreutils coreutils-base64
+opkg install wget
+opkg install fswebcam
